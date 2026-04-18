@@ -9,12 +9,13 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-It is a Nand gate
+It is a Nand gatekjhgbnjkiuhbnj
 
 ## How to test
 
 Change ouputs for IN0 and IN1
-
+nejsfnsebf
 ## External hardware
 Didnt 
 List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+sehfusehfise
